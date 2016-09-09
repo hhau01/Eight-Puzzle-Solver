@@ -7,7 +7,7 @@
 
 import java.util.*;
 
-public class Project1{
+public class EPuzzle{
     public static class EightPuzzle implements Comparable<EightPuzzle>{
         int[] puzzle = new int[9];
         private int htype, hcost, gcost = 0, totalcost = 0;
