@@ -14,11 +14,11 @@ The program will prompt the user with two choices either `1` or `2`:
 
 Next, enter a configuration. For example:
 ````
-012345678
+430285617
 ````
 Will give you an 8-puzzle of:
 ````
-0 1 2
-3 4 5
-6 7 8
+4 3 0 
+2 8 5 
+6 1 7 
 ````
