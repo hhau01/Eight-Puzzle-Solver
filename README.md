@@ -23,7 +23,7 @@ Will give you an 8-puzzle of:
 6 1 7 
 ````
 
-## Sample
+## Sample Output
 ````
 Welcome to 8-Puzzle Solver!
 (1) Randomly generate 8-puzzle problem
